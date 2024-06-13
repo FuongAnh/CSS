@@ -1,0 +1,62 @@
+/* styles.css */
+
+/* Styling the body tag */
+body {
+    font-family: 'Arial', sans-serif; /* Default font family */
+    font-size: 16px; /* Default font size */
+    margin: 0;
+    padding: 0;
+}
+
+/* Styling the header tag */
+header {
+    background-color: #f0f0f0; /* Light gray background color */
+    padding: 10px;
+}
+
+/* Styling the nav tag */
+header nav {
+    background-color: #ccc; /* Medium gray background color */
+    padding: 5px;
+}
+
+/* Styling the main tag */
+main {
+    background-color: #e0e0e0; /* Lighter gray background color */
+    padding: 20px;
+    font-size: 1.1em; /* Larger font size */
+}
+
+/* Styling the footer tag */
+footer {
+    background-color: #f0f0f0; /* Light gray background color */
+    padding: 10px;
+}
+
+/* Styling the li tag */
+li {
+    display: inline-block;
+    width: 200px; /* Fixed width for list items */
+}
+
+/* Styling the h1 tag */
+h1 {
+    text-align: center; /* Center align heading */
+    font-family: 'Arial Black', sans-serif; /* Custom font family */
+    color: #333; /* Dark gray font color */
+}
+
+/* Styling the p tag */
+p {
+    line-height: 1.6; /* Increased line height for readability */
+}
+
+/* Additional styling specific to neighborhood.html */
+main div {
+    margin-top: 20px; /* Add some space above the image grid */
+    text-align: center; /* Center align images */
+}
+
+main div img {
+    margin: 10px; /* Add margin around each image */
+}
